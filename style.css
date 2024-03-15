@@ -224,3 +224,36 @@ font-family: 'Montserrat', sans-serif;
   display: flex;
   justify-content: flex-end;
 }
+
+.b-col {
+  border: solid 4px black;
+  min-height: 275px;
+}
+
+.blue {
+  background: #8fbaef;
+}
+
+.white {
+  background: #e4e4e4;
+}
+
+.yellow {
+  background: #ffed7f;
+}
+
+.green {
+  background: #addcae;
+}
+
+.red {
+  background: #e49e9e;
+}
+
+#box-2 {
+  height: 15%;
+}
+
+#box-3 {
+  height: 85%;
+}
