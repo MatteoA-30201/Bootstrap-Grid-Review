@@ -225,7 +225,9 @@ font-family: 'Montserrat', sans-serif;
   justify-content: flex-end;
 }
 
-.b-col {
+/* END OF NAV STYLES */
+
+#grid1 div[class^="b-col"] {
   border: solid 4px black;
   min-height: 275px;
 }
@@ -250,10 +252,20 @@ font-family: 'Montserrat', sans-serif;
   background: #e49e9e;
 }
 
+/* END OF GRID 1 STYLES */
+
 #box-2 {
-  height: 15%;
+  height: 10%;
+  margin-bottom: 50px;
 }
 
 #box-3 {
-  height: 85%;
+  margin-top: 25px;
+  height: 90%;
+}
+
+#grid2 div[class^="b-col"] {
+  min-height: 75px;
+  background-color: #92ad82;
+  margin: 10px 10px;
 }
