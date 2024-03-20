@@ -269,3 +269,11 @@ font-family: 'Montserrat', sans-serif;
   background-color: #92ad82;
   margin: 10px 10px;
 }
+
+.row-width {
+  width: 69%;
+} 
+
+.row-width2 {
+  width: 105%;
+}
